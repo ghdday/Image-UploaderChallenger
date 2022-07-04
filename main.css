@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+ }
+
+ .picture {
+    position: relative;
+    text-align: center;
+    left: 25%;
+    width: 450px;
+    height: 450px;
+    display: block;
+    background: #ccc;
+    top: 25vh; 
+ }
+
+ #pic_input{
+    display: none;
+ }
+ .picture__img {
+    max-width: 100%;
+ }
